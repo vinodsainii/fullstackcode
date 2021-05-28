@@ -1,0 +1,63 @@
+body{
+   background-image: url(https://t3.ftcdn.net/jpg/03/64/00/12/360_F_364001273_HBL6oFB91cmrPS0DK6aWlCTI9ZgVWyId.jpg);
+   background-size: cover;
+}
+.divdesign{
+    align-content: center;
+}
+.center {
+    padding-top: 50px;
+    
+    font-family:'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+
+a:link,a:visited{
+    background-color: #660000;
+    color:white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a:hover,a:active{
+    border-radius: 10px;
+    background-color:#C96767;
+    text-decoration: solid;
+}
+.h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:0%;
+
+}
+.nopadding{
+    margin-right:180px;
+    font-size: 18px;
+}
+.password{
+    margin-right:190px;
+    font-size: 20px;
+}
+.box{
+    border: 10px solid transparent;
+    border-radius: 10px;
+    width: 250px;
+    border-color: #660000;
+    background:white;
+    margin: 10px auto 0 auto;
+    padding:0px 30px 50px 30px;
+}
+
+.inputdesign{
+    width: 200px;
+    height: 18px;
+    font-size: 14px;
+    
+    padding:2px 0px 0px 8px;
+}
+.username{
+    margin-right:180px;
+    font-size: 19px;
+}
+.padding{
+    padding-top: 0px;
+}
