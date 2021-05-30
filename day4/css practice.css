@@ -1,9 +1,38 @@
-
-
-
-/*background immage apply*/
 body{
-   background-color: #606F83FF;
-   background-size: cover;
+background-color: black;}
+
+
+
+.container{
+	
+
+border: 1px solid white;
+
+border-radius: 5px;
+max-width: fit-content;
+border-width: 3px;
+margin: 12px;
+    margin-bottom: 70px;
+
+
+
+
 }
 
+p{
+	color: #fdff00;
+}
+
+div.ex3 
+  {width: 430px;
+  height: 100px;
+  overflow: auto;}
+
+.pagl{
+width: 430px;
+height: 100px;
+overflow: auto;
+  }
+h3{
+
+color: #f2a104;}
